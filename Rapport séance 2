@@ -33,3 +33,5 @@ Il nous faut également un matériaux rigide et opaque (style bois ou autre) afi
 
 Donc maintenant que le matérial a été recherché, il nous reste plus qu'à comprendre et appliquer le montage. 
 
+On a essayé de brancher un step moteur mais on a pas réussi, arduino ne reconnaissait pas le port et on pense donc qu'il était en court 
+circuit.
