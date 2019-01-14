@@ -1,0 +1,30 @@
+Rapport séance 4 (Kévin)
+
+Durant cette séance, nous avons globalement bien avancé. On a passé beaucoup de temps sur le choix des pièces de l'échiquier, un choix 
+difficile car il faut des pièces assez grosse pour une bonne prise, mais légère. Et rien que pour trouver des grosses pièces, ce n'est
+pas facile sans dépenser 70€.
+Ainsi, un compromis acceptable semble les pièces suivantes : https://www.ebay.fr/itm/32-Piece-Hand-Crafted-Wooden-Chess-Pieces-Large-9cm-King-Replacement-Set/263722198296?hash=item3d67116518:g:59cAAOSwWudbpAcQ:rk:3:pf:0
+
+Notre professeur nous a fournit 4 panneaux en PVC, déjà prédécoupées ! Superbe! Cependant, les dimensions étaient différentes de celles
+estimées et on a donc dû réévaluer la largueur des cases de l'échiquier. Un problème se présentait à nous : Le grappin, vu le diamètre
+d'ouverture deux fois plus important que prévu, serait-il assez précis sur un diamètre encore plus petit que prévu ?
+
+On a donc accéléré la programmation de la pince : On s'est inspiré d'un code déjà existant, et on y a ajouté de petites modifications
+afin que son usage soit valide pour notre projet. On a tout d'abord essayé avec un potentiomètre : On voyait les pinces bouger 
+mais faiblement. On a essayé de modifier le programme, mais cela ne changeait rien. On a alors pensé à déviser un peu les vis du grapin,
+et les bras de la pince arrivaient à bouger pleinement !
+Ayant réussi avec un potentiomètre, on a alors essayé de l'adapter pour une utilisation par bluetooth, cependant nous n'avons pas réussi
+durant la séance, on essaiera de résoudre cela d'ici la prochaine séance. 
+
+Deux personnes se sont intéressées à  notre projet durant cette séance : N'en étant qu'au stade préliminaire, nous avons perdu notre
+sang-froid et avons peut-être mal expliqué notre projet, mais nous travaillons afin de faire meilleur impression lorsque nous le présenteront 
+à nouveau.
+
+Nous avons pensé à assembler la boite, cependant il nous manque les 4 pièces métalliques situées sur chaque côté de notre boite, ainsi
+que le panneau en PVC du dessus de 60cm*60cm. Dès l'acquisition de tout ce qui permettra de réaliser la boîte, on s'attaquera alors 
+à la mise en place du système à cable afin de faire bouger le grappin.
+
+Il nous faudrait également un carton de 60*60, une feuille blanche de taille équivalente, une planche en bois de 60*60 (ou en tout
+cas quelque chose de solide et facilement découpable) ainsi que le fil de fer qui sera nécessaire pour le robot à cable.
+On aurait également besoin d'un support en bois (donc plusieurs petites planches de bois) pour le grappin. Nous réfléchissons
+actuellement à comment faire tenir les faces de PVC entre elles.
